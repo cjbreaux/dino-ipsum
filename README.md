@@ -1,22 +1,11 @@
-# _Project Name_
+# Dino Ipsum
 
 ### Description
-_Brief project description. Created for Epicodus Front End Development course._
+* Practice making API calls. This app will allow users to generate lorem ipsum text of dinosaur names. Users can select the amount of words and paragraphs the would like to generate.
 
 ### Installation
-* Clone from 
+* Clone from https://github.com/cjbreaux/dino-ipsum
 * Run `$ npm install`
 * Run `$ npm run start`
 
-### Development Specs
 
-Specification | Input | Output
-------------- | ----- | ------
-_spec_ | _input_ | _output_
-
-### Known Bugs
-* None identified
-
-### Technologies Used
-
-### License
